@@ -34,6 +34,7 @@ ul{
 
 #landing{
     margin-top: 75px;
+    min-height: auto;
 }
 
 .tools{
